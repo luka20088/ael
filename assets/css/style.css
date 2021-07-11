@@ -357,10 +357,27 @@ and (max-device-width: 568px) {
 		width: 88%;
 		height: 100%;
 	}
+
 	p {
 		width: 88%;
 		height: 100%;
 
 	}
+
+	/* eklesiebi page */
+
+	.rating td {
+		width: 88%;
+		height: 100%;
+		text-align: center;
+
+	}
+
+	.rating img {
+		width: 90%;
+
+	}
+
+	
 
 }
