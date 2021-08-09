@@ -220,6 +220,20 @@ hr {
 
 }
 
+.plus {
+	margin: 10px 50px;
+}
+
+.plus img {
+	width: 238px;
+	padding: 10px;
+	transition: 0.5s;
+}
+
+.plus img:hover {
+	transform: scale(1.1);
+}
+
 table {
 	width: 100%;
 	border: solid 1px #f4f4f4;
